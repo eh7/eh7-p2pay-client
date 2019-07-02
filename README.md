@@ -21,13 +21,13 @@ The COP (Communicate Offer Payment) network is a peer to peer public network, it
 - People will be able to manage there permissions and how other people connect to you.
 - A NFC payment card, used for face to face payments with p2pay vendor app on android OS device, or IOS device. 
 - NFC solution for Mutli factor auuthenication, and smartphone app.  
-- A person will be able to associate with other people on the COP network, to enable the creation of complex finacial interactions. eg. Multi signature, payment notes, recuring payments, disastor recovery sernarious to recover assests (sharding, data backuup, personal data verifaction and distribution.
+- A person will be able to associate with other people on the COP network, to enable the creation of complex finacial interactions. eg. Multi signature, payment notes, recuring payments, disastor recovery sernarious to recover assests (sharding, data backup, personal data verifcation and distribution.
 - The COP network will use a COP Token to fund transaction fees on the network.
-- Users will access and service for a fee.
+- Users will access the service for a fee.
 - Providers will provide COP network services for a fee. 
-- An econommy will be created around using and providing  servers on the CP network.
-- Products listed can be physical/postal (ebay/amazon) fulfilment  or configurable electronic products like ticketing or vouchers, added ls requirement arrives.
-- Personal data store, data verification with zero knowledge proofs.
+- An econommy will be created around using and providing services on the COP network.
+- Products listed could be physical/postal fulfild (ebay/amazon/eshop), or configurable electronic products like ticketing or vouchers, added as requirements specify.
+- Personal data store and verification.
 - Network usage will be funded with transaction usage charges.
 - To access the basic service user will need some COP tokens, these will be available to purchase or distributed at registration. (details to follow)
 
