@@ -1,4 +1,4 @@
-P2pay Web Browser cClient for The COP Network
+P2pay Web Browser Client for The COP Network
 --
 
 This is the repository of the p2pay web browser client implmentation for the COP network. The software described and outlined in this document is a work in progress.
